@@ -5,3 +5,4 @@ print('111')
 3 + 3
 44 + 22 + 5
 print('add smth new')
+print("I would like")
