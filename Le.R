@@ -4,4 +4,4 @@ print('111')
 1 + 1
 3 + 3
 44 + 22 + 5
-licence()
+print('add smth new')
